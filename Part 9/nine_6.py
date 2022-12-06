@@ -27,5 +27,3 @@ class IceCreamStand(Restaurant):
         for flavour in self.flavours:
             print(flavour)
 
-ice = IceCreamStand('Icepack', 'Icecream')
-ice.display_flavours()
